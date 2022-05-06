@@ -1,7 +1,7 @@
 .connect-wallet-btn {
-  background-color: #2952e3;
+  background-color: #2952e3 !important;
 }
 
 .connect-wallet-btn:hover {
-  background-color: #2546bd;
+  background-color: #2546bd !important;
 }
